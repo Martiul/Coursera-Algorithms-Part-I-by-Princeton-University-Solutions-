@@ -1,4 +1,4 @@
-# Coursera - Algorithms, Part I by Princeton University (Solutions)
+# Coursera - Algorithms, Part I by Princeton University (Assignment Solutions)
 
 ## Percolation
 Finds the percolation threshold via Monte Carlo simulation.
