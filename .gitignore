@@ -1,0 +1,13 @@
+Lecture Slides/
+.idea/
+out/
+algs4.jar
+*.iml
+*.zip
+8puzzle-testing/
+kdtree/
+KdTreeGenerator.java
+KdTreeVisualizer.java
+NearestNeighborVisualizer.java
+RangeSearchVisualizer.java
+LineSegment.java
